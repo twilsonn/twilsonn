@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tyler</h1>
 <h3 align="center">I'm a passionate full-stack developer from the UK.</h3>
 
-- 👨‍💻 All of my projects are available at [https://tylerwilson.vercel.app/](https://tylerwilson.vercel.app/)
+### What I'm working on...
+I'm researching water simulation techinques for real-time rendering using fast fourier transforms. </br>
+Additionally, I'm building a tracking platform to highlight profitable investments for an online video game called Old School RuneScape.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
